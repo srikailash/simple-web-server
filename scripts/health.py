@@ -1,0 +1,5 @@
+print("Line-1: I am healthy!\n")
+print("Line-2: I am healthy!\n")
+print("Line-3: I am healthy!\n")
+print("Line-4: I am healthy!\n")
+print("Line-5: I am healthy!\n")
